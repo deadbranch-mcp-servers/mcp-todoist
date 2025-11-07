@@ -1,15 +1,21 @@
 {
-  "name": "@hoffination/mcp-todoist",
-  "version": "0.2.2",
-  "description": "A Model Context Protocol server for Todoist task management",
+  "name": "@deadbranch-mcp-servers/mcp-todoist",
+  "version": "2025.11.08",
+  "description": "A fork of Ben Hofferber's Model Context Protocol server for Todoist task management",
   "license": "MIT",
-  "author": {
-    "name": "Ben Hofferber",
-    "url": "https://hint.services",
-    "social": {
-      "bluesky": "https://bsky.app/profile/benhofferber.com"
+  "author": [
+    {
+      "name": "The Deadbranches Contributors",
+      "url": "https://github.com/DeadBranches"
+    },
+    {
+      "name": "Ben Hofferber",
+      "url": "https://hint.services",
+      "social": {
+        "bluesky": "https://bsky.app/profile/benhofferber.com"
+      }
     }
-  },
+  ],
   "private": false,
   "type": "module",
   "module": "src/index.ts",
@@ -66,12 +72,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hint-services/mcp-todoist.git"
+    "url": "git+https://github.com/deadbranch-mcp-servers/mcp-todoist.git"
   },
   "bugs": {
-    "url": "https://github.com/hint-services/mcp-todoist/issues"
+    "url": "https://github.com/deadbranch-mcp-servers/mcp-todoist/issues"
   },
-  "homepage": "https://github.com/hint-services/mcp-todoist#readme",
+  "homepage": "https://github.com/deadbranch-mcp-servers/mcp-todoist#readme",
   "keywords": [
     "mcp",
     "model-context-protocol",
@@ -80,7 +86,6 @@
     "productivity",
     "ai",
     "assistant",
-    "claude",
     "typescript"
   ]
 }
