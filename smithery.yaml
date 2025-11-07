@@ -1,7 +1,7 @@
 # Smithery configuration file: https://smithery.ai/docs/config#smitheryyaml
 
-name: "@Hint-Services/mcp-todoist"
+name: "@deadbranch-mcp-servers/mcp-todoist"
 description: "A Model Context Protocol server for Todoist task management"
-version: "0.1.0"
+version: "2025.11.08"
 
 runtime: "typescript"
